@@ -1,2 +1,18 @@
 Understand How RSI is calculatd:
 http://cns.bu.edu/~gsc/CN710/fincast/Technical%20_indicators/Relative%20Strength%20Index%20(RSI).htm
+
+One technical indicator that can be used in conjunction with the RSI and helps in confirming the validity of RSI indications is another widely-used momentum indicator, the MACD
+
+One technical indicator that can be used in conjunction with the RSI and helps in confirming the validity of RSI indications is another widely-used momentum indicator, the MACD. This indicator calculates momentum in a different way than the RSI does, by comparing the relative positions of a short- and long-term moving average.
+
+Traders primarily monitor the MACD for signs of momentum diverging from price. While price may continue to move up, with the RSI maintaining overbought readings for quite some time, the MACD shows divergence by beginning to turn down as price continues to advance. This provides an additional indication confirming that a market may be reaching a level where it is overextended and therefore likely to retrace in the near future.
+
+Moving Average Crossovers
+Moving average crossovers can also be used to provide confirmation of RSI indications that a market is overbought or oversold. Since the RSI is often used to obtain an early indication of possible trend changes, using exponential moving averages (EMAs) that respond more quickly to recent price changes, and relatively short-term moving average crossovers, such as the 5 EMA crossing over the 10 EMA, is best suited to complementing use of the RSI. The 5 EMA crossing from above to below the 10 EMA is a confirming indication of overbought conditions and possible trend reversal, while an upside crossover provides an additional indication that a market may be oversold.
+
+
+
+Always use  stop
+
+
+MACD divergences happend myabe be in tbe 1 -3 every year , but they are prtty fucking powerfuk
